@@ -1,7 +1,7 @@
 package domain;
 
 public class ViewsInfo {
-    private int viewsCounter;
+    private int count;
 
     // getters + setters для полей
 }

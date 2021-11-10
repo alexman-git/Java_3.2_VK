@@ -1,7 +1,8 @@
 package domain;
 
 public class RepostsInfo {
-    private int repostsCounter;
+    private int count;
+    private int userReposted;
 
     // getters + setters для полей
 }
